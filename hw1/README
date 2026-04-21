@@ -1,0 +1,12 @@
+# Windows 執行方式
+
+1. 先將 `main.c` 與 `sample.c` 放在同一個資料夾中。  
+2. 使用以下指令編譯：
+
+gcc main.c -o hw1
+
+3. 編譯完成後，執行：
+
+./hw1
+
+程式會讀取 sample.c，並輸出對應的 token。
